@@ -1,4 +1,6 @@
+
+
 function conflicts(){
-console.log("this is a different and conflicting instruction.");}
+alert("this is a different and conflicting instruction.");}
 conflicts();
 //this should work fine on it's own, but cause problems when merged with the local synfliction file.
