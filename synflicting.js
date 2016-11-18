@@ -1,5 +1,3 @@
-
-
 function conflicts(){
 alert("this is different and conflicting instruction.");}
 conflicts();
